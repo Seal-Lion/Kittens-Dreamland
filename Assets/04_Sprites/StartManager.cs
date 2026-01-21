@@ -78,7 +78,7 @@ public class StartManager : MonoBehaviour
     /// </summary>
     private void OnSettingBtnClick()
     {
-        if (settingBtn != null)
+        if (settingPanel != null)
         {
             settingPanel.SetActive(true);
         }
