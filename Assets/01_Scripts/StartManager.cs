@@ -34,6 +34,7 @@ public class StartManager : MonoBehaviour
     /// </summary>
     private void InitializeUI()
     {
+        // 설정 패널 비활성화
         if (settingPanel != null)
         {
             settingPanel.SetActive(false);
@@ -57,7 +58,7 @@ public class StartManager : MonoBehaviour
             settingBtn.onClick.AddListener(OnSettingBtnClick);
         }
 
-        // 설정창 닫기 버튼 클릭 이벤트 등록
+        // 설정 패널 닫기 버튼 클릭 이벤트 등록
         if (settingCloseBtn != null)
         {
             settingCloseBtn.onClick.AddListener(OnCloseSettingPanelBtnClick);
@@ -78,6 +79,7 @@ public class StartManager : MonoBehaviour
     /// </summary>
     private void OnSettingBtnClick()
     {
+        //설정 패널 활성화
         if (settingPanel != null)
         {
             settingPanel.SetActive(true);
@@ -89,6 +91,7 @@ public class StartManager : MonoBehaviour
     /// </summary>
     private void OnCloseSettingPanelBtnClick()
     {
+        //설정 패널 비활성화
         if (settingPanel != null)
             settingPanel.SetActive(false);
     }
