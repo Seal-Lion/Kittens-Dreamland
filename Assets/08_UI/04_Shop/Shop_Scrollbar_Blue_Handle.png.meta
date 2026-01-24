@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b7b1c9f94661f8a4abf37d24f187d18c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -75920938753161749
+    second: Shop_Scrollbar_Blue_Handle_0
+  - first:
+      213: 7932327264605541117
+    second: Shop_Scrollbar_Blue_Handle_1
+  - first:
+      213: 4918784163818892400
+    second: Shop_Scrollbar_Blue_Handle_2
+  - first:
+      213: -4638416526165766265
+    second: Shop_Scrollbar_Blue_Handle_3
+  - first:
+      213: 3776771212209243018
+    second: Shop_Scrollbar_Blue_Handle_4
+  - first:
+      213: 1485119051349796582
+    second: Shop_Scrollbar_Blue_Handle_5
+  - first:
+      213: 3197837351769643117
+    second: Shop_Scrollbar_Blue_Handle_6
+  - first:
+      213: 4536228732468460330
+    second: Shop_Scrollbar_Blue_Handle_7
+  - first:
+      213: 4498335967579130808
+    second: Shop_Scrollbar_Blue_Handle_8
+  - first:
+      213: 8787529707265091371
+    second: Shop_Scrollbar_Blue_Handle_9
+  - first:
+      213: -7944199531846217776
+    second: Shop_Scrollbar_Blue_Handle_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 117
+        width: 230
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be58a96fe4642fef0800000000000000
+      internalID: -75920938753161749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df295f0be99451e60800000000000000
+      internalID: 7932327264605541117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 280
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ced3bd228034440800000000000000
+      internalID: 4918784163818892400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 245
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f869daeb801afb0800000000000000
+      internalID: -4638416526165766265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 214
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8347a54869c96430800000000000000
+      internalID: 3776771212209243018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 170
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6aed0a8e33c9410800000000000000
+      internalID: 1485119051349796582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6894b9e020016c20800000000000000
+      internalID: 3197837351769643117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf3ba8ffbe3fe30800000000000000
+      internalID: 4536228732468460330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbcae3babc4d6e30800000000000000
+      internalID: 4498335967579130808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b276abed5b393f970800000000000000
+      internalID: 8787529707265091371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop_Scrollbar_Blue_Handle_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df4b7fad9880c190800000000000000
+      internalID: -7944199531846217776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shop_Scrollbar_Blue_Handle_0: -75920938753161749
+      Shop_Scrollbar_Blue_Handle_1: 7932327264605541117
+      Shop_Scrollbar_Blue_Handle_10: -7944199531846217776
+      Shop_Scrollbar_Blue_Handle_2: 4918784163818892400
+      Shop_Scrollbar_Blue_Handle_3: -4638416526165766265
+      Shop_Scrollbar_Blue_Handle_4: 3776771212209243018
+      Shop_Scrollbar_Blue_Handle_5: 1485119051349796582
+      Shop_Scrollbar_Blue_Handle_6: 3197837351769643117
+      Shop_Scrollbar_Blue_Handle_7: 4536228732468460330
+      Shop_Scrollbar_Blue_Handle_8: 4498335967579130808
+      Shop_Scrollbar_Blue_Handle_9: 8787529707265091371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
